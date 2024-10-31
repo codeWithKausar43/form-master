@@ -1,0 +1,10 @@
+.GrendFather {
+   
+    border: 2px solid palevioletred;
+    padding:  21px;
+}
+.flex{
+display: flex;
+gap: 6px; 
+ 
+}
